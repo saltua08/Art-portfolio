@@ -1,0 +1,12 @@
+<section id="contact">
+	<h1 class="headings">CONTACT ME</h1>
+	<form action="" class="form">
+		<input type="text" name="name" class="input" placeholder="Enter your name">
+		<input type="email" name="email" class="input" placeholder="Enter your email">
+		
+			</textarea>
+			<input type="submit" name="SEND" id="send">
+
+	</form>
+
+</section>

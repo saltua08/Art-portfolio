@@ -1,0 +1,38 @@
+/* Home */
+
+#home{
+	height: 820px;
+}
+
+.headings{
+	font-size: 1.7rem;
+
+}
+
+/* About */
+
+.intro h2{
+    font-size: 1.5rem;
+}
+.intro pre{
+	font-size: medium;
+}
+
+/* Portofolio */
+ .gallery img{
+	width: 250px;
+	height: 150px;
+	margin: 10px;
+}
+
+/* Contact */
+
+.input{
+	width: 80%;
+}
+#msg{
+	width: 70%;
+}
+#send{
+	width: 20%;
+}
